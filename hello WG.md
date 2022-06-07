@@ -9,3 +9,6 @@ Hello wroT! I get start working in program.
 
 * Element one
 * Element two
+
+1. Первый элемент
+2. Элемент два.
