@@ -4,11 +4,13 @@ Hello wroT! I get start working in program.
 
 Начинаем наше знакомсто с контролем версий!
 
+## Выделение текста
 *Курсив*
 
 **Полужирный**
 ***Жирный***
 
+## Списки
 * Element one
 * Element two
 
