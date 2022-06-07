@@ -6,3 +6,6 @@ Hello wroT! I get start working in program.
 
 **Полужирный**
 ***Жирный***
+
+* Element one
+* Element two
