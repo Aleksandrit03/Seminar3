@@ -1,19 +1,28 @@
-# Инструкция по работе с git
+# Инструкция по работе с git (Markdown)
 
 ## Добавление пользователя
-git config --global user.name "My Name"
+**git config --global** *user.name "My Name"*
 
-git config --global user.email "myemail@example.com"
+**git config --global** *user.email "myemail@example.com"*
 
 ## Проверка версионности файла
-git --version
+**git --version**
 ## Создание локального репозитория
-git init
+**git init**
 ## Очистка репозитория
-git clean
+**git clean**
 ## Проверка состояния репозитория
-git status
+**git status**
 ## Добавление файлу версионность в локальный репозиторий
-git add [file-name]
+**git add** [file-name]
 ## Фиксация изменений
-git commit -m "Заметка об изменении"- Фиксирует изменения и сообщает о появлении новых версий файлов
+**git commit** *-m "Заметка об изменении"*- Фиксирует изменения и сообщает о появлении новых версий файлов
+
+## Просмотр комита
+**git show** - Последнего комита
+**git show** *[1234]* - минимум 4 символа
+
+## Просмотр разницы между комитами
+**git diff** *[1234] [4321]*
+## Просмотр истории изменений
+***git log***
